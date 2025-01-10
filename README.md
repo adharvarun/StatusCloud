@@ -1,6 +1,4 @@
-<img src="logo.png" width="50px" height="50px" />
-<br>
-## StatusCloud - Flight Delay Predictor App
+# StatusCloud - Flight Delay Predictor App
 
 StatusCloud is a flight delay prediction application built with **CustomTkinter**, **NumPy**, and **Pandas**. The app predicts potential flight delays based on user-provided flight details, providing a smooth and interactive experience.
 
