@@ -16,7 +16,7 @@ StatusCloud is a flight delay prediction application built with **CustomTkinter*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adharvarunk/statuscloud.git
+   git clone https://github.com/adharvarun-projects/statuscloud.git
    cd statuscloud
 
 2. Install the necessary dependencies:
